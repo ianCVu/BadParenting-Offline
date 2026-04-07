@@ -1,3 +1,3 @@
 const game = document.createElement("iframe");
 game.srcdoc = null;
-game.style.position
+game.style.position = "fixed";
