@@ -8,7 +8,7 @@
   },
   "content_scripts" : [
     {
-      "matches" : [],
+      "matches" : ["https://github.com/ianCVu/BadParenting-Offline/blob/main/output"],
       "js" : ["content.js"]
     }
   ]
