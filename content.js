@@ -1,5 +1,7 @@
 document.body.innerHTML = "";
-document.head.innerHTML = ""; //Add icon and title later.
+document.head.innerHTML = `
+
+`; //Add icon and title later.
 const game = document.createElement("iframe");
 game.srcdoc = null;
 game.style.position = "fixed";
