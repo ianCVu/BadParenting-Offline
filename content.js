@@ -1,6 +1,7 @@
 document.body.innerHTML = "";
 document.head.innerHTML = `
-
+<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/ianCVu/BadParenting-Offline/refs/heads/main/head_icon.png">
+<title>Bad Parenting | Offline </title>
 `; //Add icon and title later.
 const game = document.createElement("iframe");
 game.srcdoc = null;
