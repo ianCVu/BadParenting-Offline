@@ -1,7 +1,7 @@
 {
   "manifest_version" : "3",
   "name" : "Bad Parenting (Offline)",
-  "description" : "Bad Parenting is a horror video game made by a Unity Engine. This extension is developed to output the game on your browser without requiring internet. Just activate the extension, open github.com/ianCVu/BadParenting-Offline/blob/main/output and it should run the game. If any problems occur with the frame play then open github.com/ianCVu/BadParenting-Offline/issues and report it to us",
+  "description" : "Bad Parenting is a horror video game made by a Unity Engine. This extension is developed to output the game on your browser. Just activate the extension, open github.com/ianCVu/BadParenting-Browser/blob/main/output and it should run the game. If any problems occur with the frame play then open github.com/ianCVu/BadParenting-Browser/issues and report it to us",
   "version" : "0.01",
   "action" : {
     "default_icon" : "icon.png"
